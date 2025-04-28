@@ -1,2 +1,2 @@
 # KalmMind
-The open-source release of the KalmMind work
+The open-source release of the KalmMind work (TBD)
